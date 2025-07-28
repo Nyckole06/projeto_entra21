@@ -1,13 +1,13 @@
 @font-face
 {
   font-family: Lostar;
-  src: url('Lostar.ttf') format('true type'); 
+  src: url('../fonts/Lostar.ttf') format('true type'); 
 }
 
 @font-face
 {
   font-family: Bebas;
-  src: url('Bebas.otf') format('open type'); 
+  src: url('../fonts/Bebas.otf') format('open type'); 
 }
 
 html, body
@@ -120,7 +120,7 @@ main
 
 .main_homepage
 {
-    background-image: url("/images/teste_2.png");
+    background-image: url("images/teste_2.png");
     background-position-y: -10px;
     padding: 0px 0px 0px 60px;
     margin:0px;
