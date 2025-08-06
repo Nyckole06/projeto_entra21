@@ -1,0 +1,574 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F9D8A-439F-480D-BA35-9B416F65CC2A}|Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\entra21.senac.cultura.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4F9D8A-439F-480D-BA35-9B416F65CC2A}|Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api.csproj|solutionrelative:entra21.senac.cultura.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9303DAC-7EA8-435B-AD02-34C26E6AC2A4}|Cultura.Application\\Cultura.Application.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9303DAC-7EA8-435B-AD02-34C26E6AC2A4}|Cultura.Application\\Cultura.Application.csproj|solutionrelative:cultura.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|solutionrelative:cultura.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F9D8A-439F-480D-BA35-9B416F65CC2A}|Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\entra21.senac.cultura.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4F9D8A-439F-480D-BA35-9B416F65CC2A}|Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api.csproj|solutionrelative:entra21.senac.cultura.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9303DAC-7EA8-435B-AD02-34C26E6AC2A4}|Cultura.Application\\Cultura.Application.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.application\\interfaces\\service\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9303DAC-7EA8-435B-AD02-34C26E6AC2A4}|Cultura.Application\\Cultura.Application.csproj|solutionrelative:cultura.application\\interfaces\\service\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9303DAC-7EA8-435B-AD02-34C26E6AC2A4}|Cultura.Application\\Cultura.Application.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.application\\interfaces\\repositorio\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9303DAC-7EA8-435B-AD02-34C26E6AC2A4}|Cultura.Application\\Cultura.Application.csproj|solutionrelative:cultura.application\\interfaces\\repositorio\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F9D8A-439F-480D-BA35-9B416F65CC2A}|Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\entra21.senac.cultura.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB4F9D8A-439F-480D-BA35-9B416F65CC2A}|Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api.csproj|solutionrelative:entra21.senac.cultura.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.infrastructure\\migrations\\20250805200029_bancobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|solutionrelative:cultura.infrastructure\\migrations\\20250805200029_bancobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.infrastructure\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|solutionrelative:cultura.infrastructure\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.infrastructure\\cultura.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|solutionrelative:cultura.infrastructure\\cultura.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.infrastructure\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|solutionrelative:cultura.infrastructure\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.infrastructure\\mappings\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|solutionrelative:cultura.infrastructure\\mappings\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA990859-DE73-4F73-BD15-CB02280574B0}|Cultura.Domain\\Cultura.Domain.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.domain\\entities\\tipoingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA990859-DE73-4F73-BD15-CB02280574B0}|Cultura.Domain\\Cultura.Domain.csproj|solutionrelative:cultura.domain\\entities\\tipoingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA990859-DE73-4F73-BD15-CB02280574B0}|Cultura.Domain\\Cultura.Domain.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA990859-DE73-4F73-BD15-CB02280574B0}|Cultura.Domain\\Cultura.Domain.csproj|solutionrelative:cultura.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9303DAC-7EA8-435B-AD02-34C26E6AC2A4}|Cultura.Application\\Cultura.Application.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.application\\dtos\\input\\usuariocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9303DAC-7EA8-435B-AD02-34C26E6AC2A4}|Cultura.Application\\Cultura.Application.csproj|solutionrelative:cultura.application\\dtos\\input\\usuariocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA990859-DE73-4F73-BD15-CB02280574B0}|Cultura.Domain\\Cultura.Domain.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.domain\\entities\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA990859-DE73-4F73-BD15-CB02280574B0}|Cultura.Domain\\Cultura.Domain.csproj|solutionrelative:cultura.domain\\entities\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9303DAC-7EA8-435B-AD02-34C26E6AC2A4}|Cultura.Application\\Cultura.Application.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.application\\dtos\\input\\enderecocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9303DAC-7EA8-435B-AD02-34C26E6AC2A4}|Cultura.Application\\Cultura.Application.csproj|solutionrelative:cultura.application\\dtos\\input\\enderecocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA990859-DE73-4F73-BD15-CB02280574B0}|Cultura.Domain\\Cultura.Domain.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.domain\\cultura.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA990859-DE73-4F73-BD15-CB02280574B0}|Cultura.Domain\\Cultura.Domain.csproj|solutionrelative:cultura.domain\\cultura.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4F9D8A-439F-480D-BA35-9B416F65CC2A}|Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\entra21.senac.cultura.api\\entra21.senac.cultura.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB4F9D8A-439F-480D-BA35-9B416F65CC2A}|Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api.csproj|solutionrelative:entra21.senac.cultura.api\\entra21.senac.cultura.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA990859-DE73-4F73-BD15-CB02280574B0}|Cultura.Domain\\Cultura.Domain.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.domain\\entities\\ingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA990859-DE73-4F73-BD15-CB02280574B0}|Cultura.Domain\\Cultura.Domain.csproj|solutionrelative:cultura.domain\\entities\\ingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA990859-DE73-4F73-BD15-CB02280574B0}|Cultura.Domain\\Cultura.Domain.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.domain\\entities\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA990859-DE73-4F73-BD15-CB02280574B0}|Cultura.Domain\\Cultura.Domain.csproj|solutionrelative:cultura.domain\\entities\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA990859-DE73-4F73-BD15-CB02280574B0}|Cultura.Domain\\Cultura.Domain.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.domain\\entities\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA990859-DE73-4F73-BD15-CB02280574B0}|Cultura.Domain\\Cultura.Domain.csproj|solutionrelative:cultura.domain\\entities\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA990859-DE73-4F73-BD15-CB02280574B0}|Cultura.Domain\\Cultura.Domain.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.domain\\entities\\compraingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA990859-DE73-4F73-BD15-CB02280574B0}|Cultura.Domain\\Cultura.Domain.csproj|solutionrelative:cultura.domain\\entities\\compraingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA990859-DE73-4F73-BD15-CB02280574B0}|Cultura.Domain\\Cultura.Domain.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.domain\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA990859-DE73-4F73-BD15-CB02280574B0}|Cultura.Domain\\Cultura.Domain.csproj|solutionrelative:cultura.domain\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.infrastructure\\mappings\\tipoingressomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|solutionrelative:cultura.infrastructure\\mappings\\tipoingressomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.infrastructure\\mappings\\ingressomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|solutionrelative:cultura.infrastructure\\mappings\\ingressomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.infrastructure\\mappings\\favoritomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|solutionrelative:cultura.infrastructure\\mappings\\favoritomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.infrastructure\\mappings\\eventomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|solutionrelative:cultura.infrastructure\\mappings\\eventomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.infrastructure\\mappings\\enderecomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|solutionrelative:cultura.infrastructure\\mappings\\enderecomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.infrastructure\\mappings\\compraingressomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|solutionrelative:cultura.infrastructure\\mappings\\compraingressomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.infrastructure\\mappings\\categoriamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA92CBA-6590-47F5-8B07-8F8610929736}|Cultura.Infrastructure\\Cultura.Infrastructure.csproj|solutionrelative:cultura.infrastructure\\mappings\\categoriamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9303DAC-7EA8-435B-AD02-34C26E6AC2A4}|Cultura.Application\\Cultura.Application.csproj|c:\\users\\nyckole.melo\\downloads\\slnfinalcultura\\slnfinalcultura\\slnfinalcultura\\entra21.senac.cultura.api\\cultura.application\\cultura.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9303DAC-7EA8-435B-AD02-34C26E6AC2A4}|Cultura.Application\\Cultura.Application.csproj|solutionrelative:cultura.application\\cultura.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Cultura\\Back\\Entra21.Senac.Cultify.Api\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\Compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Entra21.Senac.Cultura.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api\\Program.cs",
+              "RelativeToolTip": "Entra21.Senac.Cultura.Api\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T02:48:17.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Application\\Interfaces\\Service\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Cultura.Application\\Interfaces\\Service\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Application\\Interfaces\\Service\\IUsuarioService.cs",
+              "RelativeToolTip": "Cultura.Application\\Interfaces\\Service\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:04:43.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Entra21.Senac.Cultura.Api\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Entra21.Senac.Cultura.Api\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:10:48.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Cultura.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Cultura.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T02:11:17.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Application\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Cultura.Application\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Application\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Cultura.Application\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:13:16.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Application\\Interfaces\\Repositorio\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Cultura.Application\\Interfaces\\Repositorio\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Application\\Interfaces\\Repositorio\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Cultura.Application\\Interfaces\\Repositorio\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T02:19:01.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "Cultura.Infrastructure\\Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Data\\DbContext.cs",
+              "RelativeToolTip": "Cultura.Infrastructure\\Data\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T02:16:00.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Entra21.Senac.Cultura.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api\\appsettings.json",
+              "RelativeToolTip": "Entra21.Senac.Cultura.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T02:54:32.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Cultura.Infrastructure\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "Cultura.Infrastructure\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:59:36.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250805200029_BancoBase.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Migrations\\20250805200029_BancoBase.cs",
+              "RelativeDocumentMoniker": "Cultura.Infrastructure\\Migrations\\20250805200029_BancoBase.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Migrations\\20250805200029_BancoBase.cs",
+              "RelativeToolTip": "Cultura.Infrastructure\\Migrations\\20250805200029_BancoBase.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAwwAYBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:00:59.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cultura.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Cultura.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Cultura.Infrastructure\\Cultura.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Cultura.Infrastructure.csproj",
+              "RelativeToolTip": "Cultura.Infrastructure\\Cultura.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T23:27:27.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Cultura.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Cultura.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T00:00:43.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipoIngresso.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\TipoIngresso.cs",
+              "RelativeDocumentMoniker": "Cultura.Domain\\Entities\\TipoIngresso.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\TipoIngresso.cs",
+              "RelativeToolTip": "Cultura.Domain\\Entities\\TipoIngresso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T00:02:50.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioMap.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Mappings\\UsuarioMap.cs",
+              "RelativeDocumentMoniker": "Cultura.Infrastructure\\Mappings\\UsuarioMap.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Mappings\\UsuarioMap.cs",
+              "RelativeToolTip": "Cultura.Infrastructure\\Mappings\\UsuarioMap.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA9wCgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T02:11:31.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Application\\Dtos\\Input\\UsuarioCreateDto.cs",
+              "RelativeDocumentMoniker": "Cultura.Application\\Dtos\\Input\\UsuarioCreateDto.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Application\\Dtos\\Input\\UsuarioCreateDto.cs",
+              "RelativeToolTip": "Cultura.Application\\Dtos\\Input\\UsuarioCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T17:51:50.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\Endereco.cs",
+              "RelativeDocumentMoniker": "Cultura.Domain\\Entities\\Endereco.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\Endereco.cs",
+              "RelativeToolTip": "Cultura.Domain\\Entities\\Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T00:00:53.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EnderecoCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Application\\Dtos\\Input\\EnderecoCreateDto.cs",
+              "RelativeDocumentMoniker": "Cultura.Application\\Dtos\\Input\\EnderecoCreateDto.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Application\\Dtos\\Input\\EnderecoCreateDto.cs",
+              "RelativeToolTip": "Cultura.Application\\Dtos\\Input\\EnderecoCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T17:52:14.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cultura.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Cultura.Domain.csproj",
+              "RelativeDocumentMoniker": "Cultura.Domain\\Cultura.Domain.csproj",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Cultura.Domain.csproj",
+              "RelativeToolTip": "Cultura.Domain\\Cultura.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T17:59:24.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Entra21.Senac.Cultura.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api.csproj",
+              "RelativeDocumentMoniker": "Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api.csproj",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api.csproj",
+              "RelativeToolTip": "Entra21.Senac.Cultura.Api\\Entra21.Senac.Cultura.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T03:05:50.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Ingresso.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\Ingresso.cs",
+              "RelativeDocumentMoniker": "Cultura.Domain\\Entities\\Ingresso.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\Ingresso.cs",
+              "RelativeToolTip": "Cultura.Domain\\Entities\\Ingresso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:13:35.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CompraIngresso.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\CompraIngresso.cs",
+              "RelativeDocumentMoniker": "Cultura.Domain\\Entities\\CompraIngresso.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\CompraIngresso.cs",
+              "RelativeToolTip": "Cultura.Domain\\Entities\\CompraIngresso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:13:33.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\Categoria.cs",
+              "RelativeDocumentMoniker": "Cultura.Domain\\Entities\\Categoria.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\Categoria.cs",
+              "RelativeToolTip": "Cultura.Domain\\Entities\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T00:02:58.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Favorito.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\Favorito.cs",
+              "RelativeDocumentMoniker": "Cultura.Domain\\Entities\\Favorito.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\Favorito.cs",
+              "RelativeToolTip": "Cultura.Domain\\Entities\\Favorito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T00:02:35.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\Evento.cs",
+              "RelativeDocumentMoniker": "Cultura.Domain\\Entities\\Evento.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\Evento.cs",
+              "RelativeToolTip": "Cultura.Domain\\Entities\\Evento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T00:02:10.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TipoIngressoMap.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Mappings\\TipoIngressoMap.cs",
+              "RelativeDocumentMoniker": "Cultura.Infrastructure\\Mappings\\TipoIngressoMap.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Mappings\\TipoIngressoMap.cs",
+              "RelativeToolTip": "Cultura.Infrastructure\\Mappings\\TipoIngressoMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:33:10.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IngressoMap.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Mappings\\IngressoMap.cs",
+              "RelativeDocumentMoniker": "Cultura.Infrastructure\\Mappings\\IngressoMap.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Mappings\\IngressoMap.cs",
+              "RelativeToolTip": "Cultura.Infrastructure\\Mappings\\IngressoMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:32:49.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FavoritoMap.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Mappings\\FavoritoMap.cs",
+              "RelativeDocumentMoniker": "Cultura.Infrastructure\\Mappings\\FavoritoMap.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Mappings\\FavoritoMap.cs",
+              "RelativeToolTip": "Cultura.Infrastructure\\Mappings\\FavoritoMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:34:18.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EventoMap.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Mappings\\EventoMap.cs",
+              "RelativeDocumentMoniker": "Cultura.Infrastructure\\Mappings\\EventoMap.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Mappings\\EventoMap.cs",
+              "RelativeToolTip": "Cultura.Infrastructure\\Mappings\\EventoMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:18:30.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EnderecoMap.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Mappings\\EnderecoMap.cs",
+              "RelativeDocumentMoniker": "Cultura.Infrastructure\\Mappings\\EnderecoMap.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Mappings\\EnderecoMap.cs",
+              "RelativeToolTip": "Cultura.Infrastructure\\Mappings\\EnderecoMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T02:49:28.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CompraIngressoMap.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Mappings\\CompraIngressoMap.cs",
+              "RelativeDocumentMoniker": "Cultura.Infrastructure\\Mappings\\CompraIngressoMap.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Mappings\\CompraIngressoMap.cs",
+              "RelativeToolTip": "Cultura.Infrastructure\\Mappings\\CompraIngressoMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:33:52.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoriaMap.cs",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Mappings\\CategoriaMap.cs",
+              "RelativeDocumentMoniker": "Cultura.Infrastructure\\Mappings\\CategoriaMap.cs",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Infrastructure\\Mappings\\CategoriaMap.cs",
+              "RelativeToolTip": "Cultura.Infrastructure\\Mappings\\CategoriaMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:29:03.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Cultura.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Application\\Cultura.Application.csproj",
+              "RelativeDocumentMoniker": "Cultura.Application\\Cultura.Application.csproj",
+              "ToolTip": "C:\\Users\\nyckole.melo\\Downloads\\SLNFINALCULTURA\\SLNFINALCULTURA\\SLNFINALCULTURA\\Entra21.Senac.Cultura.Api\\Cultura.Application\\Cultura.Application.csproj",
+              "RelativeToolTip": "Cultura.Application\\Cultura.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T23:47:10.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Cultura\\Back\\Entra21.Senac.Cultify.Api\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\Compra.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Cultura\\Back\\Entra21.Senac.Cultify.Api\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\Compra.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Cultura\\Back\\Entra21.Senac.Cultify.Api\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\Compra.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Cultura\\Back\\Entra21.Senac.Cultify.Api\\Entra21.Senac.Cultura.Api\\Cultura.Domain\\Entities\\Compra.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T00:03:15.931Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
