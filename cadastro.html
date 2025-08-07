@@ -51,6 +51,24 @@
                     <label for="cep">CEP</label>
                 </div>
 
+                
+                <div class="login-box" id="cidade-estado">
+                    <div class="login-box">
+                        <input type="text" id="cidade" name="cidade_user" placeholder=" " readonly>
+                        <label for="cidade" class="float">Cidade</label>
+                    </div>
+
+                    <div class="login-box">
+                        <input type="text" id="estado" name="estado_user" placeholder=" " readonly>
+                        <label for="estado" class="float">Estado</label>
+                    </div>
+                </div>
+
+                <div class="login-box">
+                    <input type="text" id="bairro" name="bairro_user" placeholder=" ">
+                    <label for="bairro">Bairro</label>
+                </div>
+
                 <div class="login-box" id="rua-numero">
                     <div class="login-box">
                         <input type="text" id="rua" name="rua_user" placeholder=" ">
@@ -63,29 +81,15 @@
                         <label for="numero" class="float">Número</label>
                     </div>
                 </div>
+
+                <span id="mensagemCep"></span>
                 
-                <div class="login-box">
-                    <input type="text" id="bairro" name="bairro_user" placeholder=" ">
-                    <label for="bairro">Bairro</label>
-                </div>
-
-                <div class="login-box" id="cidade-estado">
-                    <div class="login-box">
-                        <input type="text" id="cidade" name="cidade_user" placeholder=" ">
-                        <label for="cidade" class="float">Cidade</label>
-                    </div>
-
-                    <div class="login-box">
-                        <input type="text" id="estado" name="estado_user" placeholder=" ">
-                        <label for="estado" class="float">Estado</label>
-                    </div>
-                </div>
 
             </div>
 
             <div class="botoes">
                 <div class="button-cadastrar">
-                    <button onclick="window.location.href='login.html'"  id="voltar">Voltar</button>
+                    <button onclick="window.location.href='login.html'" type="button" id="voltar">Voltar</button>
                 </div>
 
                 <div class="button-cadastrar">
@@ -99,5 +103,11 @@
         </form>
     </div>
     <script src="JS/cadastro.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.js"></script>
+    <script>
+        $('#cep').mask('00000-000');
+        $('#telefone').mask('(00) 00000-0000');
+    </script>
 </body>
 </html>
