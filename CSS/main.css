@@ -284,4 +284,8 @@ footer
     grid-row-end: 3;
 }
 
-
+i
+{
+    color: white;
+    cursor: pointer;
+}
