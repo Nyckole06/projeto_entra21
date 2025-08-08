@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Entra21.Senac.Cultura.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64142e52ed061b7af8972b69a179fcd042f6ef55")]
 [assembly: System.Reflection.AssemblyProductAttribute("Entra21.Senac.Cultura.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Entra21.Senac.Cultura.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
