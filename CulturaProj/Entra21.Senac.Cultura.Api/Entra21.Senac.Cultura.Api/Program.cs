@@ -1,14 +1,20 @@
 using Cultura.Application.Interfaces.Repositorio;
 using Cultura.Application.Interfaces.Service;
 using Cultura.Application.Services;
+using Cultura.Application.Validator;
 using Cultura.Data;
 using Cultura.Infrastructure.Repositories;
+using FluentValidation;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Adiciona os serviços ao container
 builder.Services.AddControllers();
+
+builder.Services.AddValidatorsFromAssemblyContaining<UsuarioValidator>();
+
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -19,11 +25,15 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
         sqlOptions => sqlOptions.MigrationsAssembly("Cultura.Infrastructure")
     ));
 
+
 // Registro dos serviços
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 builder.Services.AddScoped<IUsuarioService, UsuarioService>();
 
-// Configuração do CORS
+// Autorização
+builder.Services.AddAuthorization();
+
+// CORS
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("PermitirFrontendLocal", policy =>
@@ -36,19 +46,19 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-// Configuração do pipeline HTTP
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
 
-// Ativa o CORS antes dos middlewares que usam requisição
 app.UseCors("PermitirFrontendLocal");
 
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+
 
 app.MapControllers();
 

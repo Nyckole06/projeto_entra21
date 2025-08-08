@@ -1,15 +1,1 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/.vs
-/CulturaProj/Entra21.Senac.Cultura.Api/.vs/Entra21.Senac.Cultura.Api/FileContentIndex/7a7711cb-0c48-4752-bb52-730278e6f925.vsidx
-/CulturaProj/Entra21.Senac.Cultura.Api/.vs/Entra21.Senac.Cultura.Api/FileContentIndex/10d33049-fb13-489b-b63d-681310aa8ee9.vsidx
-/CulturaProj/Entra21.Senac.Cultura.Api/.vs/Entra21.Senac.Cultura.Api/FileContentIndex/1a550a2a-7794-4b45-8145-af804761f5b1.vsidx
-/CulturaProj/Entra21.Senac.Cultura.Api/.vs/Entra21.Senac.Cultura.Api/FileContentIndex/4fe71f60-0cd4-4f88-be42-9653bb2f03af.vsidx
-/CulturaProj/Entra21.Senac.Cultura.Api/.vs/Entra21.Senac.Cultura.Api/FileContentIndex/84d388e8-4d88-4a6d-a65e-8572b5ac4032.vsidx
-/CulturaProj/Entra21.Senac.Cultura.Api/.vs/Entra21.Senac.Cultura.Api/FileContentIndex/8716e42a-e4a0-4f72-91cc-7dd4d3aefe7d.vsidx
-/CulturaProj/Entra21.Senac.Cultura.Api/.vs/Entra21.Senac.Cultura.Api/FileContentIndex/9be6477e-46fe-46d1-9e42-488fc17f23a2.vsidx
-/CulturaProj/Entra21.Senac.Cultura.Api/.vs/Entra21.Senac.Cultura.Api/FileContentIndex/c5801449-0191-467d-8859-26e1800ca629.vsidx
-/CulturaProj/Entra21.Senac.Cultura.Api/.vs/Entra21.Senac.Cultura.Api/FileContentIndex/d17e4b03-b782-45e4-a0c1-3dcd8d796113.vsidx
-/CulturaProj/Entra21.Senac.Cultura.Api/.vs/Entra21.Senac.Cultura.Api/FileContentIndex/f2812e71-e2bf-4d0d-a39b-245b0e373bd6.vsidx
+﻿.vs/
