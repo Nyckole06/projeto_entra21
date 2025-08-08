@@ -27,5 +27,11 @@ namespace Cultura.Infrastructure.Repositories
             await _context.Set<Usuario>().AddAsync(usuario);
             await _context.SaveChangesAsync();
         }
+        public async Task<Usuario> GetUsuarioByEmail(string email, string senha)
+        {
+            return await _context.Usuarios
+                .Include(u => u.Endereco) // Não esqueça do Include, se usar EF
+                .FirstOrDefaultAsync(u => u.Email == email && u.Senha == senha);
+        }
     }
 }

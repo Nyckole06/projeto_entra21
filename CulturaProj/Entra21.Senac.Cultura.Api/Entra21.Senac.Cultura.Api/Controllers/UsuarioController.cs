@@ -22,6 +22,13 @@ namespace Entra21.Senac.Cultura.Api.Controllers
             await _usuarioService.CreateUsuario(usuarioDto);
             return Ok();
         }
-
+        [HttpGet("Login")]
+        public async Task<IActionResult> GetUserByEmail([FromQuery] string email, [FromQuery] string senha)
+        {
+            var usuario = await _usuarioService.GetUsuarioByEmail(email, senha);
+            if (usuario == null)
+                return NotFound("Usuário não encontrado ou credenciais inválidas.");
+            return Ok(usuario);
+        }
     }
 }

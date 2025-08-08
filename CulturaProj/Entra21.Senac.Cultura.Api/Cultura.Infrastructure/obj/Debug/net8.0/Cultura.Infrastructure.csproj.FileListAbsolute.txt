@@ -55,3 +55,23 @@ C:\Users\nyckole.melo\Downloads\SLNFINALCULTURA\SLNFINALCULTURA\SLNFINALCULTURA\
 C:\Users\nyckole.melo\Downloads\SLNFINALCULTURA\SLNFINALCULTURA\SLNFINALCULTURA\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\obj\Debug\net8.0\Cultura.Infrastructure.pdb
 C:\Users\nyckole.melo\Downloads\SLNFINALCULTURA\SLNFINALCULTURA\SLNFINALCULTURA\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\obj\Debug\net8.0\Cultura.Infrastructure.genruntimeconfig.cache
 C:\Users\nyckole.melo\Downloads\SLNFINALCULTURA\SLNFINALCULTURA\SLNFINALCULTURA\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\obj\Debug\net8.0\ref\Cultura.Infrastructure.dll
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\bin\Debug\net8.0\Cultura.Infrastructure.deps.json
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\bin\Debug\net8.0\Cultura.Infrastructure.runtimeconfig.json
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\bin\Debug\net8.0\Cultura.Infrastructure.dll
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\bin\Debug\net8.0\Cultura.Infrastructure.pdb
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\bin\Debug\net8.0\Cultura.Application.dll
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\bin\Debug\net8.0\Cultura.Domain.dll
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\bin\Debug\net8.0\Cultura.Application.pdb
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\bin\Debug\net8.0\Cultura.Domain.pdb
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\obj\Debug\net8.0\Cultura.Infrastructure.csproj.AssemblyReference.cache
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\obj\Debug\net8.0\Cultura.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\obj\Debug\net8.0\Cultura.Infrastructure.AssemblyInfoInputs.cache
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\obj\Debug\net8.0\Cultura.Infrastructure.AssemblyInfo.cs
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\obj\Debug\net8.0\Cultura.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\obj\Debug\net8.0\Cultura.Infrastructure.sourcelink.json
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\obj\Debug\net8.0\Cultura..0C860310.Up2Date
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\obj\Debug\net8.0\Cultura.Infrastructure.dll
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\obj\Debug\net8.0\refint\Cultura.Infrastructure.dll
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\obj\Debug\net8.0\Cultura.Infrastructure.pdb
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\obj\Debug\net8.0\Cultura.Infrastructure.genruntimeconfig.cache
+C:\Trabalho cultura\CulturaProj\Entra21.Senac.Cultura.Api\Cultura.Infrastructure\obj\Debug\net8.0\ref\Cultura.Infrastructure.dll

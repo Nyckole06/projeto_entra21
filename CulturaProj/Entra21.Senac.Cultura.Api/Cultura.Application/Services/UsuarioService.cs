@@ -1,12 +1,13 @@
-﻿using System;
+﻿using Cultura.Application.Dtos.Input;
+using Cultura.Application.Dtos.Output;
+using Cultura.Application.Interfaces.Repositorio;
+using Cultura.Application.Interfaces.Service;
+using Cultura.Domain.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Cultura.Application.Dtos.Input;
-using Cultura.Application.Interfaces.Repositorio;
-using Cultura.Application.Interfaces.Service;
-using Cultura.Domain.Entities;
 
 namespace Cultura.Application.Services
 {
@@ -20,7 +21,7 @@ namespace Cultura.Application.Services
             _usuarioRepository = usuarioRepository;
         }
 
-       public async Task CreateUsuario (UsuarioCreateDto usuarioDto)
+        public async Task CreateUsuario(UsuarioCreateDto usuarioDto)
         {
             // Map UsuarioCreateDto to Usuario entity
             var usuario = new Usuario
@@ -43,5 +44,28 @@ namespace Cultura.Application.Services
 
             await _usuarioRepository.CreateUsuario(usuario);
         }
+        public async Task<UsuarioDadosLoginDto> GetUsuarioByEmail(string email, string senha)
+        {
+            var usuario = await _usuarioRepository.GetUsuarioByEmail(email, senha);
+            if (usuario == null)
+                return null;
+            return new UsuarioDadosLoginDto
+            {
+                Nome = usuario.Nome,
+                Email = usuario.Email,
+                Telefone = usuario.Telefone,
+                DataNascimento = usuario.DataNascimento,
+                Endereco = new EnderecoDadosLoginDto
+                {
+                    Cep = usuario.Endereco.Cep,
+                    Estado = usuario.Endereco.Estado,
+                    Cidade = usuario.Endereco.Cidade,
+                    Bairro = usuario.Endereco.Bairro,
+                    Numero = usuario.Endereco.Numero,
+                    Rua = usuario.Endereco.Rua
+                }
+            };
+        }
     }
+        
 }

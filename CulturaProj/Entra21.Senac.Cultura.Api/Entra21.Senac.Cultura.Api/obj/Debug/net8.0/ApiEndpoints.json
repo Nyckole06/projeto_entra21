@@ -14,5 +14,26 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Entra21.Senac.Cultura.Api.Controllers.UsuarioController",
+    "Method": "GetUserByEmail",
+    "RelativePath": "api/Usuario/Login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "senha",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
